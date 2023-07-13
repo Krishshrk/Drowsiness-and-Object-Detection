@@ -15,4 +15,4 @@
 3. Type "streamlit run app.py"
 4. New window will open in brower and give acess to camera and microphone to utilize the interface.
 5. It will compute the real time eye and mouth key points of face image and tells the corresponding status (normal/drowsy) in the monitor.
-6. Bring any object in the screen to check its distance and name of the object.
+6. Bring any object in the screen to check its distance and name of the object with the custom alarm triggered.
