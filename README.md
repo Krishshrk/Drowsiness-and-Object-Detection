@@ -10,7 +10,7 @@
 7. open-cv
 
 ## Steps to follow:
-1. unzip the yolo.weights file and move it into same directory level
+1. Download the yolo.weights file from "https://drive.google.com/file/d/1dpledPaU1GSvxK3OmqsJ03toH-8TszTC/view?usp=sharing" and move it into same directory level
 2. open the cmd prompt and navigte to downloaded directory of code folder
 3. Type "streamlit run app.py"
 4. New window will open in brower and give acess to camera and microphone to utilize the interface.
